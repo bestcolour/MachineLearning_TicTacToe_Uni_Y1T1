@@ -1,10 +1,15 @@
 # MachineLearning_TicTacToe_Uni_Y1T1
  Machine Learning Tic Tac Toe game project done in university's year 1 trimester 1
 
-
+# To play the game
 
 1.	Install the ‘raylib’ GUI library at https://www.raylib.com/ keep all installation settings default.
- 
+2. Download this repository as a zip file before extracting it. Then click on the .exe file to play
+
+
+# To recompile
+
+1.	Install the ‘raylib’ GUI library at https://www.raylib.com/ keep all installation settings default.
 2.	After successful installation, locate where your raylib folder is installed at.
 3.	To compile the .c source code to output the .exe file, run the following command. The text in `-I"somepath"` and `-L"somepath"` is the respective file path to the installed raylib folder. Depending on where you have installed it, you will have to make changes accordingly.
 
