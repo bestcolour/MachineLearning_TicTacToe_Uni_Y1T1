@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "prepare_data.h": "c",
+        "train_model.c": "cpp",
+        "stdbool.h": "c",
+        "train_model.h": "c",
+        "main_machine_learning_ai.h": "c",
+        "training_settings.h": "c",
+        "math.h": "c"
+    }
+}
